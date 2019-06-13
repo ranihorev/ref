@@ -1,5 +1,5 @@
 {
-  "name": "ref",
+  "name": "@saleae/ref",
   "description": "Turn Buffer instances into \"pointers\"",
   "keywords": [
     "native",
