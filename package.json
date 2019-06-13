@@ -26,7 +26,6 @@
   },
   "main": "./lib/ref.js",
   "scripts": {
-    "docs": "node docs/compile",
     "test": "mocha --gc-global --expose-gc --reporter spec --use_strict"
   },
   "dependencies": {
