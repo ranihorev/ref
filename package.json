@@ -17,7 +17,7 @@
     "byte",
     "64"
   ],
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
   "repository": {
@@ -39,6 +39,6 @@
     "jade": "1",
     "marked": "0.6.2",
     "mocha": "*",
-    "weak": "@saleae/ref"
+    "weak": "npm:@saleae/ref"
   }
 }
